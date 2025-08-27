@@ -41,7 +41,7 @@ The tool was built with industrial R&D applications in mind, aligning with **pro
 ## 📂 Project Structure
 ```
 
-pipe\_flow\_tool/
+Pipe Flow Analysis & Visualization Tool/
 ├─ requirements.txt
 ├─ README.md
 ├─ app/
@@ -54,6 +54,9 @@ pipe\_flow\_tool/
 │  │  └─ fluid\_props.py      \# CoolProp wrapper
 │  ├─ viz/
 │  │  └─ plots.py            \# Moody plot & visualization
+|
+|
+
 
 ````
 ---
