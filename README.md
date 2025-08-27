@@ -101,8 +101,12 @@ This project demonstrates skills aligned with industrial product R\&D:
 
 -----
 
-👨‍💻 Author
-Shivam Rathaur
+## 👨‍💻 Author
+
+**Shivam Rathaur**
 
 B.Tech (3rd Year), Materials Science & Metallurgical Engineering, IIT Hyderabad
 (Second Major: Mechanical Engineering)
+
+
+Note: This project was developed as part of my academic work at IIT Hyderabad, focusing on applying core Fluid Mechanics & Thermodynamic principles to create engineering tools useful in industrial applications.
